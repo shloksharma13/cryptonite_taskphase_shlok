@@ -1,3 +1,5 @@
+# Intro to Arguments
+
 In this module we learn about arguments
 The first word we input in the prompt is the command, and the subsequent words are arguments
 In this case ```echo``` was a command with ```Hello Hackers!``` as the argument
