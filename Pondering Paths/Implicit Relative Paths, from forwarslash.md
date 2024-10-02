@@ -1,4 +1,4 @@
-# Implicit Relative Paths
+# Implicit Relative Paths, from /
 In this module we learn about `relative paths`.
 Unlike absolute paths, these start from where the directory left off.
 Such an example is the given challenge where we're supposed to run `/challenge/run`, but when we run it, the parses displays error and tells us to shift to `/` directory.
