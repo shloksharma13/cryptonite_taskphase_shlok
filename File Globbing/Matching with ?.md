@@ -1,5 +1,5 @@
 # Matching with ?
-In this challenge, we learn about the usage of `?`. In essence, its a substitutor.
+In this challenge, we learn about the usage of `?`. In essence, its a single alphabet substitutor.
 ```
 Connected!
 This challenge resets your working directory to /home/hacker unless you change
