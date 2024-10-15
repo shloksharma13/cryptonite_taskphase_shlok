@@ -1,4 +1,4 @@
-# Killing Files
+# Killing Processes
 In this challenge, we learn how to kill an ongoing process, we start by using `ps aux` to display all currently running processes and then find the id for `cont_run` and use the `kill` command with argument `73` which is the id for `dont_run` and kill it. then we run `/challenge/run` to unlcok the flag.
 ```
 Connected!
