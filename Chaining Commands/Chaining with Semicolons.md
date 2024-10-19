@@ -1,4 +1,4 @@
-# Chaining Commands
+# Chaining with semicolons
 In this challenge, we learn that we can club commands by using a `;` between them.
 ```
 Connected!
